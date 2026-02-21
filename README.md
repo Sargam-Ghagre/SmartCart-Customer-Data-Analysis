@@ -1,4 +1,4 @@
-## SmartCart-Customer-Data-Analysis
+### SmartCart-Customer-Data-Analysis
 
 # Description:
 This project analyzes customer data from a retail dataset to understand purchasing behavior and clean missing data using Python data analysis tools.
