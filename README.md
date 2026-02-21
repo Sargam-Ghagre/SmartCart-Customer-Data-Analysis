@@ -14,3 +14,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 # Customer data visualization
 Outcome:
 Successfully cleaned and analyzed customer dataset to extract meaningful insights.
+
+# Outcome
+Successfully cleaned and analyzed retail customer dataset
+Generated meaningful insights from customer purchasing patterns
